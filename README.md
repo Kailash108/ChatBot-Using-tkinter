@@ -6,7 +6,9 @@ You have to use some commands like telegram bots. Commands will be listed in the
 
 Type /cmds for listing out the commands.
 and type respective commands you need and after typing, you'll get the desired output.
-
 <h4>Nothing more to discuss about my software. Once you start using it everything gets understood.</h4>
-
-Will increase my bot's intelligence in future.....
+<h3>Installation</h3>
+<h1>
+  ScreenShot
+  <center><img src="https://github.com/Kailash108/ChatBot-Using-tkinter/blob/master/Chatbot.jpg"></center>
+</h1>
